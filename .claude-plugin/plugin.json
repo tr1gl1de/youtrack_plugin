@@ -1,0 +1,10 @@
+{
+  "name": "youtrack",
+  "version": "0.1.0",
+  "description": "Work with YouTrack issues, comments, time tracking and Knowledge Base articles over the REST API.",
+  "author": { "name": "tr1gl1de", "url": "https://github.com/tr1gl1de" },
+  "homepage": "https://github.com/tr1gl1de/youtrack_plugin",
+  "repository": "https://github.com/tr1gl1de/youtrack_plugin",
+  "license": "MIT",
+  "keywords": ["youtrack", "issues", "jetbrains", "task-tracker"]
+}
